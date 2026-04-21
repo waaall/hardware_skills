@@ -1,0 +1,7 @@
+interface:
+  display_name: "Analyze Hardware Schematic"
+  short_description: "Analyze modular schematics into evidence-based docs"
+  default_prompt: "Use $analyze-hardware-schematic to analyze these modular schematic materials and produce evidence-based hardware design documents."
+
+policy:
+  allow_implicit_invocation: true
